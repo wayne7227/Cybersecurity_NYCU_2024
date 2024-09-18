@@ -1,0 +1,1 @@
+curl -v --limit-rate 256 --proxy socks5h://10.0.2.15:10808 -L http://10.0.2.15:8000
